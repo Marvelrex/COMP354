@@ -1,0 +1,2 @@
+Expression: sinh 2 
+Result: 3.62686040784702

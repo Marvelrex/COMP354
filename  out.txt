@@ -1,0 +1,10 @@
+Expression: (sd 1 2 3 4)
+Result: 1.118033988749895
+Expression: (arccos(0.5))*10-4*3+2-10
+Result: -9.528019438053423
+Expression: ((arccos(-0.4))+(sinh(0.4))+3*4*5)/2
+Result: 31.196532778949468
+Expression: 2 * 5^4 - (sinh(2)) + 200.5 - 1232
+Result: 214.87313959215294
+Expression: (sinh(0.5))+2^4*5.4+2-10
+Result: 78.92109530549375
